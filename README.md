@@ -26,7 +26,7 @@ Hey there! 👋<br>I'm Anket, a passionate Web Designer who loves crafting visua
 
 # 👨‍💻 personal portfolio:
 <p>1 page black oprtfolio</p>
-<h1>only view in desktop </h1>
+<p1>only view in desktop </p1>
 <ul>
  <li>ecofood :https://akki-shirke.github.io/New-Portfolio/ </li>
 </ul>

@@ -16,12 +16,15 @@ Hey there! 👋<br>I'm Anket, a passionate Web Designer who loves crafting visua
 [![](https://visitcount.itsvg.in/api?id=Akki-shirke&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-##s ﻿# Home-Decore
+
+
+# 🏡 Home decore:
 <p>this is a home decore website Templete</p>
 <ul>
  <li>Home-Decore :https://akki-shirke.github.io/Akki-BootsTrap-Home-D/</li>
 </ul>
-#﻿# new portfolio
+
+# 👨‍💻 personal portfolio:
 <p>1 page black oprtfolio</p>
 <ul>
  <li>ecofood :https://akki-shirke.github.io/New-Portfolio/ </li>

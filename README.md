@@ -40,3 +40,9 @@ Hey there! 👋<br>I'm Anket, a passionate Web Designer who loves crafting visua
 <ul>
  <li>resturant : https://akki-shirke.github.io/resturant-new-website/</li>
 </ul>
+
+# 🕴🏻Men's Fashion Website
+<p>this is Men's Fashion Website</p>
+<ul>
+ <li>Men's Fashion  :https://akki-shirke.github.io/Mens_fashion-web</li>
+</ul>

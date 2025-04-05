@@ -19,12 +19,15 @@ Hey there! 👋<br>I'm Anket, a passionate Web Designer who loves crafting visua
 
 ## work 👨‍💻📂:
 
-# 👨‍💻 personal portfolio:
-<p>1 page black oprtfolio</p>
-<p1>only view in desktop </p1>
-<ul>
- <li>personal portfolio:https://akki-shirke.github.io/New-Portfolio/ </li>
-</ul>
+
+## 🪲 Beetle Digital!
+
+🚀 A modern and responsive digital agency website that showcases creative services, smooth interactions, and a clean design.
+
+[🌐 Live Demo](https://akki-shirke.github.io/Digital-Beetle/) &nbsp; | &nbsp; [📂 View Project Files](https://github.com/Akki-shirke/Digital-Beetle.git)
+
+
+
 
 
 # 🏡 Home decore:
@@ -46,3 +49,11 @@ Hey there! 👋<br>I'm Anket, a passionate Web Designer who loves crafting visua
 <ul>
  <li>Men's Fashion  :https://akki-shirke.github.io/Mens_fashion-web</li>
 </ul>
+
+# 👨‍💻 personal portfolio:
+<p>1 page black oprtfolio</p>
+<p1>only view in desktop </p1>
+<ul>
+ <li>personal portfolio:https://akki-shirke.github.io/New-Portfolio/ </li>
+</ul>
+

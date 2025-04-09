@@ -19,6 +19,13 @@ Hey there! 👋<br>I'm Anket, a passionate Web Designer who loves crafting visua
 
 ## work 👨‍💻📂:
 
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- Font Awesome
+
 
 ## 🪲 Beetle Digital!
 
@@ -49,6 +56,28 @@ Hey there! 👋<br>I'm Anket, a passionate Web Designer who loves crafting visua
 <ul>
  <li>Men's Fashion  :https://akki-shirke.github.io/Mens_fashion-web</li>
 </ul>
+
+# 🏠 Real Estate Website
+
+A responsive and modern real estate website built using **HTML**, **CSS**, **Bootstrap**. This project showcases property listings with a clean UI, interactive features, and smooth scrolling experience. Ideal for showcasing real estate properties for sale or rent.
+
+🔗 **Live Demo**: [Real Estate Website](https://akki-shirke.github.io/Real_Estate/)
+
+---
+
+## 🚀 Features
+
+- 🏘️ Property Listings with images, details, and pricing
+- 📱 Fully Responsive Design
+- 🖱️ Smooth Scrolling Navigation
+- 📸 Gallery Section
+- 📞 Contact Form (static design)
+- 🌙 Clean and modern UI using Bootstrap
+- 📁 Well-structured and clean codebase
+
+---
+
+
 
 # 👨‍💻 personal portfolio:
 <p>1 page black oprtfolio</p>
